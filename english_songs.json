@@ -1,0 +1,82 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "1",
+      "music_name": "Cheap Thrills",
+      "music_url": "https://yash6292.github.io/english_song_app_data/Cheap Thrills Sia 320 Kbps.mp3",
+      "singer_name": "Sia",
+      "musicImage": "https://yash6292.github.io/english_ringtones_data/I Love Cheap Thrills.jpg"
+    },
+    {
+      "id": "1",
+      "music_name": "Let Me Love U",
+      "music_url": "https://yash6292.github.io/english_song_app_data/DJ Snake - Let Me Love You ft. Justin Bieber.mp3",
+      "singer_name": "Justin Bieber",
+      "musicImage": "https://yash6292.github.io/justin_bieber_ringtones_data/Let Me Love U.jpg"
+    },
+    {
+      "id": "1",
+      "music_name": "Perfect",
+      "music_url": "https://yash6292.github.io/english_song_app_data/Ed Sheeran - Perfect (Official Music Video).mp3",
+      "singer_name": "Ed Sheeran",
+      "musicImage": "https://yash6292.github.io/english_ringtones_data/perfect.jpg"
+    },
+    {
+      "id": "1",
+      "music_name": "Calm Down",
+      "music_url": "https://yash6292.github.io/english_song_app_data/Baby Calm Down (FULL VIDEO SONG) - Selena Gomez & Rema Official Music Video 2023.mp3",
+      "singer_name": "Selena Gomez, Rema",
+      "musicImage": "https://yash6292.github.io/english_ringtones_data/Calm Down Calm Down.jpg"
+    },
+    {
+      "id": "1",
+      "music_name": "Old Town Road",
+      "music_url": "https://yash6292.github.io/english_song_app_data/Lil Nas X - Old Town Road (Official Video) ft. Billy Ray Cyrus.mp3",
+      "singer_name": "Lil Nas X",
+      "musicImage": "https://yash6292.github.io/english_ringtones_data/Old town road.jpg"
+    },
+    {
+      "id": "1",
+      "music_name": "Girls Like U",
+      "music_url": "https://yash6292.github.io/english_song_app_data/Maroon 5 - Girls Like You ft. Cardi B (Volume 2) (Official Music Video).mp3",
+      "singer_name": "Maroon 5",
+      "musicImage": "https://yash6292.github.io/english_ringtones_data/Girls like u.jpg"
+    },
+    {
+      "id": "1",
+      "music_name": "Heat Waves",
+      "music_url": "https://yash6292.github.io/english_song_app_data/Glass Animals - Heat Waves (Official Video).mp3",
+      "singer_name": "Glass Animals",
+      "musicImage": "https://yash6292.github.io/english_ringtones_data/heat_waves.jpg"
+    },
+    {
+      "id": "1",
+      "music_name": "Shape Of You",
+      "music_url": "https://yash6292.github.io/english_song_app_data/Ed Sheeran - Shape of You (Official Music Video).mp3",
+      "singer_name": "Ed Sheeran",
+      "musicImage": "https://yash6292.github.io/justin_bieber_ringtones_data/Shap of you.jpg"
+    },
+    {
+      "id": "1",
+      "music_name": "Sorry",
+      "music_url": "https://yash6292.github.io/english_song_app_data/Justin Bieber - Sorry (PURPOSE _ The Movement).mp3",
+      "singer_name": "Justin Biber",
+      "musicImage": "https://yash6292.github.io/justin_bieber_ringtones_data/Sorry.jpg"
+    },
+    {
+      "id": "1",
+      "music_name": "Stay",
+      "music_url": "https://yash6292.github.io/english_song_app_data/stay.mp3",
+      "singer_name": "Justin Bieber",
+      "musicImage": "https://yash6292.github.io/justin_bieber_ringtones_data/Stay.jpg"
+    },
+    {
+      "id": "1",
+      "music_name": "Senorita",
+      "music_url": "https://yash6292.github.io/english_song_app_data/Shawn Mendes, Camila Cabello - Señorita.mp3",
+      "singer_name": "Shawn Mendes, Camila Cabello",
+      "musicImage": "https://yash6292.github.io/justin_bieber_ringtones_data/Senorita.jpg"
+    }
+  ]
+}
